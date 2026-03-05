@@ -1,5 +1,5 @@
-id = "codegreen"
-name = "code_green"
+id = "green-theme"
+name = "green-theme"
 version = "0.0.2"
 schema_version = 1
 authors = ["ningfangbin <nfb0408@163.com>"]
